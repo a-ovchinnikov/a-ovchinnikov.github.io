@@ -1,0 +1,803 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5e -->
+<!-- CreationDate: Fri Jun 22 15:45:45 2018 -->
+<!-- Magnification: 1.050 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="11.7in" height="6.2in"
+	viewBox="-5085 -8749 14096 7489">
+<g style="stroke-width:.025in; fill:none">
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M -188,-7889 A 360 360  0  1  0 -188 -7181 " />
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M -614,-6708 A 360 360  0  1  0 -1322 -6708 " />
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M -1842,-7181 A 360 360  0  1  0 -1842 -7889 " />
+<!-- Circle -->
+<circle cx="-992" cy="-7559" r="642"
+ style="stroke:#000000;stroke-width:111;"/>
+<!-- Circle -->
+<circle cx="-1700" cy="-7039" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-1464" cy="-6803" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-236" cy="-8031" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="-2267,-6191
+-1889,-6191
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-2173,-6049
+-1984,-6049
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-2078,-6805
+-2078,-6332
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-2362,-6332
+-1795,-6332
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3779,-7370
+-3590,-7370
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3590,-7606
+-3590,-7133
+-3212,-7370
+-3590,-7606
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3165,-7653
+-3165,-7086
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3165,-7370
+-2976,-7370
+-3023,-7370
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3779,-8409
+-3590,-8409
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3590,-8645
+-3590,-8173
+-3212,-8409
+-3590,-8645
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3165,-8692
+-3165,-8125
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3165,-8409
+-2976,-8409
+-3023,-8409
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Circle -->
+<circle cx="-4110" cy="-8409" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-4110" cy="-7370" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-2881" cy="-7889" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="-2976,-8409
+-2881,-8409
+-2881,-7370
+-3023,-7370
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3779,-8409
+-4062,-8409
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-3779,-7370
+-4062,-7370
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7290,-8082
+7101,-8082
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7101,-7846
+7101,-8319
+6723,-8082
+7101,-7846
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6676,-7799
+6676,-8366
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6676,-8082
+6487,-8082
+6534,-8082
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4264,-8081
+4075,-8081
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4075,-7845
+4075,-8318
+3697,-8081
+4075,-7845
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3650,-7798
+3650,-8365
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3650,-8081
+3461,-8081
+3508,-8081
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M 6174,-8072 A 360 360  0  1  0  6174 -7363 " />
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M 4520,-7363 A 360 360  0  1  0  4520 -8072 " />
+<!-- Circle -->
+<circle cx="5371" cy="-7741" r="642"
+ style="stroke:#000000;stroke-width:111;"/>
+<!-- Circle -->
+<circle cx="4662" cy="-7222" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="6127" cy="-8214" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="4077,-6714
+4455,-6714
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4172,-6573
+4361,-6573
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4266,-7329
+4266,-6856
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3983,-6856
+4550,-6856
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7311,-6697
+7689,-6697
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7405,-6555
+7594,-6555
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7500,-7311
+7500,-6838
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7216,-6838
+7783,-6838
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Circle -->
+<circle cx="2977" cy="-8090" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="6280" cy="-7376" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="6924" cy="-7369" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="8058" cy="-8090" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="8072" cy="-7341" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="7504" cy="-7334" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="4259,-8082
+4542,-8082
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6119,-8082
+6524,-8082
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4226,-7362
+4557,-7362
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3477,-8082
+3051,-8082
+3146,-8082
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7067,-7341
+7965,-7341
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7209,-8082
+7965,-8082
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M 3496,-3685 A 360 360  0  1  0  3496 -2976 " />
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M 3070,-2503 A 360 360  0  1  0  2362 -2503 " />
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M 1842,-2976 A 360 360  0  1  0  1842 -3685 " />
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M 2314,-4204 A 360 360  0  1  0  3023 -4204 " />
+<!-- Circle -->
+<circle cx="2692" cy="-3354" r="642"
+ style="stroke:#000000;stroke-width:111;"/>
+<!-- Circle -->
+<circle cx="1984" cy="-2834" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="2220" cy="-2598" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="3448" cy="-3826" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="2125" cy="-4062" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="3732,-3685
+3921,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3921,-3921
+3921,-3448
+4299,-3685
+3921,-3921
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4346,-3968
+4346,-3401
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4346,-3685
+4535,-3685
+4488,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4818,-3259
+4818,-3070
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5149,-3259
+4488,-3259
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5149,-3401
+4488,-3401
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4818,-3590
+4818,-3401
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5462,-2975
+5556,-2975
+5604,-3069
+5651,-2975
+5698,-2880
+5793,-3069
+5887,-2880
+5982,-3069
+6076,-2880
+6123,-2975
+6218,-2975
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Circle -->
+<circle cx="2314" cy="-4582" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="3023" cy="-4582" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="4818" cy="-2976" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="4818" cy="-3685" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="3496,-3685
+3732,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3023,-4157
+3023,-4488
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2314,-4157
+2314,-4488
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3070,-2503
+3070,-2173
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2362,-2551
+2362,-2173
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1889,-3685
+1606,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1889,-2976
+1606,-2976
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3496,-2976
+5480,-2976
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4440,-3685
+5385,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4818,-3543
+4818,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4818,-3118
+4818,-2976
+4818,-3023
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6188,-2976
+6425,-2976
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5291,-3685
+6425,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M -1322,-3685 A 360 360  0  1  0 -1322 -2976 " />
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M -1748,-2503 A 360 360  0  1  0 -2456 -2503 " />
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M -2976,-2976 A 360 360  0  1  0 -2976 -3685 " />
+<!-- Arc -->
+<path style="stroke:#000000;stroke-width:63;stroke-linecap:butt;"
+d="M -2503,-4204 A 360 360  0  1  0 -1795 -4204 " />
+<!-- Circle -->
+<circle cx="-2125" cy="-3354" r="642"
+ style="stroke:#000000;stroke-width:111;"/>
+<!-- Circle -->
+<circle cx="-2834" cy="-2834" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-2598" cy="-2598" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-1370" cy="-3826" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-2692" cy="-4062" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="-1086,-3685
+-897,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-897,-3921
+-897,-3448
+-519,-3685
+-897,-3921
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-472,-3968
+-472,-3401
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-472,-3685
+-283,-3685
+-330,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="0,-3259
+0,-3070
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="330,-3259
+-330,-3259
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="330,-3401
+-330,-3401
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="0,-3590
+0,-3401
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="643,-2975
+738,-2975
+785,-3069
+832,-2975
+879,-2880
+974,-3069
+1068,-2880
+1163,-3069
+1257,-2880
+1304,-2975
+1399,-2975
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Circle -->
+<circle cx="-2503" cy="-4582" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-1795" cy="-4582" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="0" cy="-2976" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="0" cy="-3685" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="-1322,-3685
+-1086,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-1795,-4157
+-1795,-4488
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-2503,-4157
+-2503,-4488
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-1748,-2503
+-1748,-2173
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-2456,-2551
+-2456,-2173
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-2929,-3685
+-3212,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-2929,-2976
+-3212,-2976
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-1322,-2976
+661,-2976
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-377,-3685
+566,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="0,-3543
+0,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="0,-3118
+0,-2976
+0,-3023
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1370,-2976
+1606,-2976
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="472,-3685
+1606,-3685
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Circle -->
+<circle cx="-3307" cy="-3685" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-3307" cy="-2976" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="-1748,-2220
+-472,-2220
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2362,-2220
+-519,-2220
+-472,-2220
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Circle -->
+<circle cx="6755" cy="-2976" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="7133" cy="-2976" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="7511" cy="-2976" r="47"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-2456" cy="-2125" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="3070,-2220
+6425,-2220
+6377,-2220
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Circle -->
+<circle cx="188" cy="-7889" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="188" cy="-7181" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-614" cy="-6472" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Circle -->
+<circle cx="-1322" cy="-6472" r="106"
+ style="stroke:#000000;stroke-width:63;"/>
+<!-- Line -->
+<polyline points="-246,-7902
+131,-7902
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-248,-7174
+81,-7174
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-590,-6752
+-590,-6516
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-603,-6720
+-603,-6531
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-1331,-6725
+-1331,-6489
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-1790,-7167
+-2073,-7167
+-2073,-6695
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="-2838,-7895
+-1941,-7895
+-1846,-7895
+" style="stroke:#000000;stroke-width:63;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="8268" y="-7568" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">Out</text>
+<!-- Text -->
+<text xml:space="preserve" x="2319" y="-8005" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">In</text>
+<!-- Text -->
+<text xml:space="preserve" x="6394" y="-6868" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">u~</text>
+<!-- Text -->
+<text xml:space="preserve" x="-4062" y="-3165" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">In</text>
+<!-- Text -->
+<text xml:space="preserve" x="-3118" y="-1559" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">+Clock</text>
+<!-- Text -->
+<text xml:space="preserve" x="6519" y="-1275" fill="#000000"  font-family="Times" font-style="italic" font-weight="bold" font-size="303" text-anchor="start">c</text>
+<!-- Text -->
+<text xml:space="preserve" x="-2409" y="-4913" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">D1</text>
+<!-- Text -->
+<text xml:space="preserve" x="2409" y="-4913" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">D2</text>
+<!-- Text -->
+<text xml:space="preserve" x="-1500" y="-5871" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">Clock</text>
+<!-- Text -->
+<text xml:space="preserve" x="410" y="-7415" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">Out</text>
+<!-- Text -->
+<text xml:space="preserve" x="-5069" y="-7247" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">In2</text>
+<!-- Text -->
+<text xml:space="preserve" x="-5038" y="-8297" fill="#000000"  font-family="Times" font-style="normal" font-weight="bold" font-size="303" text-anchor="start">In1</text>
+<!-- Text -->
+<text xml:space="preserve" x="83" y="-5585" fill="#000000"  font-family="Times" font-style="italic" font-weight="bold" font-size="303" text-anchor="start">a</text>
+<!-- Text -->
+<text xml:space="preserve" x="8078" y="-5574" fill="#000000"  font-family="Times" font-style="italic" font-weight="bold" font-size="303" text-anchor="start">b</text>
+</g>
+</svg>
