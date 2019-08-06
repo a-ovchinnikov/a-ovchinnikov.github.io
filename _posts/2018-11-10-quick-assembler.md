@@ -31,11 +31,11 @@ and return something like
 
 So to build an assembler one would at least need some mapping from mnemonics to
 instructions. Also it would be nice to know if an instruction takes an
-argument. And from the snippet above it could be deduced that some inctructions
+argument. And from the snippet above it could be deduced that some instructions
 require more data than others: it is highly likely that instructions that try
 to address memory will require arguments wide enough to cover memory bus width
 while instructions writing to or reading from registers will be limited
-to register width. Sounds trivial so far. In the simpliest case[^1] it is easy
+to register width. Sounds trivial so far. In the simplest case[^1] it is easy
 to imagine a dictionary with mnemonics as keys and dictionaries or tuples
 holding all necessary data:
 
@@ -75,7 +75,7 @@ inserted. When there are no more instructions to be processed this second table
 is used to fill gaps in the code. Both approaches are pretty straightforward.
 
 To make it a charm one needs one more component to a minimal assembler. The
-question I have been omitting so far is how eaxctly input program should
+question I have been omitting so far is how exactly input program should
 be parsed. Now it is time to deal with it. There is as usual more than one way
 to do it. First of all I must mention the venerable ad-hoc approach which was
 used now and then in the olden days. Just mash together some string splitting
@@ -87,7 +87,7 @@ field sizes a-la FORTRAN-77.
 The other option is to do it right: write a parser. It will take
 care of input and return a nice list of objects corresponding to each line's
 content. A nice and thorough example could be found
-[here](http://lisperator.net/pltut/).  The only problem with such apprach is
+[here](http://lisperator.net/pltut/).  The only problem with such approach is
 that it feels a bit too fundamental, especially given the fact that this
 problem has been solved multiple times. So if you are not looking for an excuse
 for diving into a comprehensive guide to parsing (like
@@ -135,20 +135,20 @@ couple of months of other activities I had to spend quite some time
 refamiliarizing myself with my implementation. With pyparsing it took me about
 a minute to read and understand what this piece is about. The only thing left
 now is to apply `line` parser to some assembly code and deal with result.
-`line` is a parser which is capable of parsing program lines consiting of parts
-described above.  To get parse results now is trivial:
+`line` is a parser which is capable of parsing program lines consisting of
+parts described above.  To get parse results now is trivial:
 
 ```python
 parse_results = [line.parseString(x) for x in program]
 ```
 
-`parse_results` for parser decribed above can have attributes _label_,
+`parse_results` for parser described above can have attributes _label_,
 _mnemonic_, _args_ and _comment_. Actually an attempt to get any named field
 will result in `parse_results` returning a string which will be empty in
 case nothing was successfully matched.
 
 Having a list of parsed elements it is trivial to take a list of instructions,
-compute proper addreses for all labels and then substitute mnemonics for
+compute proper addresses for all labels and then substitute mnemonics for
 operation codes, addresses for labels and keep constants intact:
 
 ```python
@@ -182,8 +182,8 @@ def _shape(x):
     return x[:2] + (' ' if len(x) == 4 else '') + x[2:]
 ```
 
-You can see that the code is crude and straightfoward, the most complex part of
-it is code for formatting results.  `LabelTable` is an auxiliary class which
+You can see that the code is crude and straightforward, the most complex part
+of it is code for formatting results.  `LabelTable` is an auxiliary class which
 stores label locations and advances memory location. It is trivial to come up
 with some implementation for it, the one I used I placed in Appendix in order
 to save space.
@@ -195,7 +195,7 @@ The other most important part that was omitted from the previous discussion is
 the question how one can abstract some common patterns in the code? Consider,
 for example assemblers for MIPS that have pseudoinstructions which look like
 regular ones to the user, but consist of several CPU instructions under the
-hood. Arguably the most important part of a DIY assembler built for reasearch
+hood. Arguably the most important part of a DIY assembler built for research
 purposes is an ability to handle such pseudinstructions and preferably some
 other abstractions.  For instance it would be nice to have say an ability to
 use libraries which get included at assembly time. Such libraries could provide
@@ -221,7 +221,7 @@ properly and it also helps to keep a list of already included files at hand
 since even several such files are capable of breeding include loops. It could
 be tempting to use this mechanism for directly substituting code, but it is
 better not to do so since it would require overcomplicated and error-prone loop
-detection mechanism.  It is much beter to rely on macro definitions for this
+detection mechanism.  It is much better to rely on macro definitions for this
 job.
 
 Macro definition could look like this:
@@ -233,14 +233,14 @@ ENDMACRO
 ```
 
 First of all, it starts with word `MACRO` which is reserved specifically for
-this purpose. One would have to strike it out of her lexicone when working with
+this purpose. One would have to strike it out of her lexicon when working with
 this macroprocessor. Then goes macro name followed by named arguments to
 macro. Then, starting on the next line goes macro body -- the code which would
 get substituted later when macro names appears in code. Finally `ENDMACRO`
 finishes macro definition.
 
 When processing input macroprocessor maintains a table of known macro names.
-When `MACRO` appears in input stream macro procesor processes everything till
+When `MACRO` appears in input stream macro processor processes everything till
 the end of line to create an entry for this table consisting of macro name and
 macro arguments, then reads everything till `ENDMACRO` and stores obtained code in
 the table. When reading in other tokens macroprocessor checks if token matches

@@ -11,8 +11,8 @@ change.  I nevertheless decided to publish them as soon as they reached more
 or less stable form to facilitate feedback and to speed up overall processing
 of notes._
 
-In this series of posts I will discuss building digital computers from scatch:
-possible approaches, tradeoffs and shortcomings of various technologies
+In this series of posts I will discuss building digital computers from scratch:
+possible approaches, trade-offs and shortcomings of various technologies
 available to reasonably dedicated person. Also I will try to navigate perilous
 bogs of software development for such machines.
 
@@ -27,9 +27,9 @@ Mahal is sufficiently big pile of rocks" -- correct in a broad sense, but
 obviously some know-how should be present as well, also it would be nice to get
 some tools too.  In my experience this know-how of ways to transform a tray of
 logic elements into a computer is surprisingly hard to come by and largely
-should not be seeked from a source which is fond of generic statements. It
+should not be sought from a source which is fond of generic statements. It
 remained a mystery for me for quite a time. If only I had a book or at least a
-pamflet describing basics without going too deep into details and
+pamphlet describing basics without going too deep into details and
 optimizations! Alas, at those times I was unable to find such guide.
 
 One day I realised, that since at some point in time building computers
@@ -43,7 +43,7 @@ The first thing I found was [MyCPU project](http://mycpu.eu/): impressive, but
 at the moment of finding described in too few details. While posing more
 questions than actually answering it did two important things. First of all it
 showed me that it is generally feasible to design and build your own computer
-from discrete components. Second, it provided a nice entrypoint to DIY CPU
+from discrete components. Second, it provided a nice entry point to DIY CPU
 web-ring which in turn had many projects to consider and draw inspiration and
 understanding from. Then my "a-ha" moment happened when I found
 [CPUville](http://www.cpuville.com/Projects/Original-CPU/Original-CPU-home.html)
@@ -100,7 +100,7 @@ Or in other words, how to determine when the goal is reached. Surprisingly
 there is a room to answer this question since both machines that answer
 positively to "But can it run Crysis?" and "Can it land a spaceship on the
 Moon?" should be considered computers. Peculiarly enough, the latter one is
-probably a billion times simplier than the former one.  Thus the first problem
+probably a billion times simpler than the former one.  Thus the first problem
 I had to deal with was to define a computer for myself. Since building a
 computer capable of running Crysis even at grains of FPS appears to be somewhat
 hard task and navigation computer feels a bit like a very complicated special
@@ -116,9 +116,9 @@ with pen and paper. After some more thought I have added a soft definition
 which expands the original one by removing the 60 seconds constrain out of fear
 to rule out possible electromechanical machines.  Such definition feels like
 the closest thing to the spirit of computers: compute some number and probably
-do something about it. Also I'd like to specialy stress that the _compute_
+do something about it. Also I'd like to specially stress that the _compute_
 part is essential otherwise a memory device with trigonometric table would
-quialify as a computer too.
+qualify as a computer too.
 
 Parts choice
 ------------
@@ -127,13 +127,13 @@ It is important to note, that this question is very low-level one, since as
 long as at least basic logic elements are present there is no need to care how
 exactly they are implemented and it is sufficient to think on proper level of
 abstraction, yet I believe half of the fun of making a computer from the ground
-up lies in choosing the most bizzare basis ever. (In the Taj Mahal analogy it
-would ba akin to considering rolling your own rocks with occasional
+up lies in choosing the most bizarre basis ever. (In the Taj Mahal analogy it
+would be akin to considering rolling your own rocks with occasional
 detours to amend cosmological constants).
 
 The options at hand are almost endless, starting from mundane logic gates,
 progressing to DIY logic gates and then to DIY building blocks for DIY logic
-gates. Then at some point one realizes that the gates should not necesarily be
+gates. Then at some point one realizes that the gates should not necessarily be
 electric ones: pneumatic (or steam) or mechanical gates would be fun to work
 with! In fact even if you constrain yourself to electrically driven devices you
 will still have a lot to consider, so much that I had to split the very basic
@@ -152,18 +152,18 @@ ran into another one: instruction set. Since my goal was a very rudimentary,
 but universal computer, I was expecting to have no less than eight instructions
 and no more than sixteen. I thought that having too few would overcomplicate
 programming and having too many would overburden the design and would
-potentially lead to more anoying hardware bugs. So obviously I had to choose
+potentially lead to more annoying hardware bugs. So obviously I had to choose
 the most important instructions from some real or imaginary set. Having too
 much choice once again turned against me.  It turned out, that I didn't
 actually realize which secondary instructions would be useful and which could
 be safely left out. It was obvious that at least a conditional jump is a must,
-but how badly I will be affected by lefting out other types of jumps?  What
-about extra arithemtic operations?  Extra logic? It was a task of finding
-balance between usability and ortogonality of instruction set and amount of
+but how badly I will be affected by leaving out other types of jumps?  What
+about extra arithmetic operations?  Extra logic? It was a task of finding
+balance between usability and orthogonality of instruction set and amount of
 work required to build CPU: the more instructions are there, the more wires I
 will have to solder in the end of the day. Sure thing I could pick up a well
 known architecture and replicate it, something old and relatively simple, like
-6502 or 8080, but that would have required tremendous amount of repetituous
+6502 or 8080, but that would have required tremendous amount of repetitious
 effort and would have likely shadowed the important parts. So it was crucial to
 trim down instruction set for the most useful subset which would provide just
 enough features. I have spent quite some time poring down on instruction sets
