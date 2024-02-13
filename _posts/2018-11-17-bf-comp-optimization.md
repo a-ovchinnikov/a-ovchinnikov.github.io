@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building Computing Machines from Ground Up: BrainF**k Interpreter Optimization"
+title:  "Building Computing Machines from Ground Up: BrainF--k Interpreter Optimization"
 date:   2018-11-17 01:00:00 +0400
 categories: computer
 ---
@@ -291,12 +291,12 @@ substitution table. Circuits for this post could be found in a [usual place]()
 Afterword
 ---------
 
-This post has finalized the basics of development of BrainF**k computer: the
+This post has finalized the basics of development of BrainF--k computer: the
 design is relatively performant and at the same time still easy to understand.
 This design is ready to be translated to be implemented in hardware yet to do
 that I have to deal with some debt first, namely I have to discuss various ways
 to implement memory units and displays. After that everything will be ready to
-build a real BrainF**k computer.
+build a real BrainF--k computer.
 
 ------------------------------
 
