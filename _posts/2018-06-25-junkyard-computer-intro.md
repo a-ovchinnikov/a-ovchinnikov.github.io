@@ -176,11 +176,11 @@ from answering my original question -- what instruction set to use for the CPU
 of my future computer? At least I was not choosing between stack machine and
 register machine. Finally at some point I decided, that it was time to stop
 considering options and start acting, dropped all instruction sets I have
-considered so far and decided to continue with BrainFuck. Why BF? It is
+considered so far and decided to continue with BrainF--k. Why BF? It is
 compact, Turing-complete and quite well-known, and I thought it should not be
 much worse in the end than any other concoction. In retrospective I should have
 probably gone with subleq: despite being even more minimalistic, it allows for
-easier higher-level language implementation -- writing a compiler to BrainFuck
+easier higher-level language implementation -- writing a compiler to BrainF--k
 turned out to be more tedious task than I liked, which required jumping through
 too many loops without having proper jumps. Yet BF issues didn't bother me much
 since I decided to stick with it  just long enough till I can emulate richer

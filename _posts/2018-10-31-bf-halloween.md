@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Halloween Special: BrainFuck Interpreter With RAM Chip"
+title:  "Halloween Special: BrainF--k Interpreter With RAM Chip"
 date:   2018-10-31 01:00:00 +0400
 categories: computer
 ---
