@@ -5,7 +5,7 @@ date:   2024-12-29 20:55:38
 categories: compilation
 ---
 
-_Some month ago my trusty old Lenovo was going through rather heavy
+_Some months ago my trusty old Lenovo was going through rather heavy
 computations when it suddenly stopped, exhaled a small puff of blue smoke  and
 never responded to any key press again.  While its computational essence had moved
 to the realm of eternal primes hunt, I managed to salvage an SSD from its
@@ -91,7 +91,7 @@ compact cassettes of sorts). Both tapes start in the leftmost position and move
 to the left or to the right depending on their cumulative state.
 The data tape is normally considered circular i.e. once a tape is
 exhausted in either direction it implicitly rolls over to the opposing end.
-Data is stored as discrete 8-bit morsels referred to as cells. Data tapes starts empty,
+Data is stored as discrete 8-bit morsels referred to as cells. Data tape starts empty,
 i.e. initially each cell stores a zero. The machine has an unspecified device which can
 somehow read 8-bit wide values from a user (i.e. do input) and display cells'
 contents to a user (i.e. do output). On each clock cycle a core of a machine determines
